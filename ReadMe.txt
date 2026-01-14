@@ -116,6 +116,6 @@ is provided for testing the code. Parameters in main.py are given for this sampl
 
 Do not hesitate to ask questions or propose improvements!
 
-Contact: panopg@physics.uoc.gr
+Contact: georgia.panopoulou@chalmers.se
 
 [1] http://www.herschel.fr/cea/gouldbelt/en/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=66
