@@ -31,10 +31,9 @@ Adjust parameters in main.py according to guidelines below.
 Then run main.py .
 
 Before running check that you can:
->>> import FilTER
->>> import pywcsgrid2 (and all above packages)
-Have a DisPerSe output file of type .a.NDskl
-
+* import FilTER
+* import pywcsgrid2 (and all above packages)
+Have a DisPerSe output file of type .a.NDskl.
 To test the code (run as is), download this file from the Herschel Gould Belt Survey
 archives (Andre et al. 2010), and save it in the sample folder:
 www.herschel.fr/cea/gouldbelt/en/archives/taurusN3/taurusN3-500.fits.gz
