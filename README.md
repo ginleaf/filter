@@ -13,7 +13,6 @@ Please cite the above in any related publication.
 
 =======================
 Requirements: 
-(If you have troubles with other versions please contact panopg@physics.uoc.gr)
 * python 2.7
 * numpy  1.9.0
 * pyfits 3.1.2
